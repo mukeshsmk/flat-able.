@@ -7,7 +7,7 @@
 **1. Clone this repo by running the following command :-**
 
 ```bash
- git clone https://github.com/mukeshsmk/Projects
+ git clone https://github.com/mukeshsmk/flat-able
  cd flat-able
 ```
 
